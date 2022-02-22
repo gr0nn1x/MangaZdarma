@@ -1,0 +1,21 @@
+@font-face {font-family:font;src:url(Cinzel-Black.ttf);font-weight:normal}
+body {background-color:black;font-family:font ;}
+.telo {background-color:#666666;margin-left:auto;margin-right:auto;width:1303px;height:2000px;}
+header {text-align:center;font-size:50px;}
+footer {position:absolute;background-color:#cccccc;text-align:center;width:1303px;top:2000px; }
+.info {display:flex;font-size:20px;margin-left:auto;margin-right:auto;width:60%;}
+.wrap {display:flex;flex-wrap:wrap;}
+a {text-decoration:none;color:white}
+.Berserk a {;text-decoration:none;color:white;font-size:30px}
+.Berserk a:hover {color:black;font-size:40px;}
+.Berserk p {margin-left:25%;margin-top:-2%}
+.Demonslayer {;text-decoration:none;color:white;font-size:30px}
+.Demonslayer a:hover {color:black;font-size:40px;}
+.Demonslayer p {margin-left:15%;margin-top:-2%}
+.Madeinabyss a {;text-decoration:none;color:white;font-size:30px}
+.Madeinabyss a:hover {color:black;font-size:40px;}
+.Madeinabyss p {margin-left:10%;margin-top:-2%}
+.Demonslayer {display:flex;order:1;width:406px;height:610px;margin-top:10%;margin-left:10%;text-decoration:none;}
+.Berserk {display:flex;order:2;width:431px;height:610px;margin-top:-46%;margin-left:55%;text-decoration:none;}
+.Madeinabyss {display:flex;order:3;width:356px;height:499px;margin-top:10%;margin-left:10%;text-decoration:none;}
+

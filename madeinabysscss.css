@@ -1,0 +1,8 @@
+@font-face {font-family:font;src:url(Cinzel-Black.ttf);font-weight:normal}
+body {background-color:black;font-family:font ;}
+.telo {background-color:#666666;margin-left:auto;margin-right:auto;width:1303px;height:2000px;}
+header {text-align:center;font-size:50px;}
+footer {position:absolute;background-color:#cccccc;text-align:center;width:1303px;top:2000px;height:50px;color:black ;font-size:40px;}
+a {list-style:none;line-height:20px;text-decoration:none;color:black;font-size:20px}
+a:hover {color:white}
+.seznam {font-size:40px}

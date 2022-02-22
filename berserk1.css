@@ -1,0 +1,14 @@
+@font-face {font-family:font;src:url(Cinzel-Black.ttf);font-weight:normal}
+body {background-color:black;font-family:font;}
+.telo {background-color:#666666;margin-left:auto;margin-right:auto;width:1303px;min-height:100%}
+header {text-align:center;font-size:50px;}
+img {display:block;height:1600px;width:1139px;margin-left:6%}
+a img {width:1066px;height:749px;margin-left:9%}
+.footer {position:absolute;;}
+.a {background-color: #ff9999;color:#6699ff}
+.b {background-color: #6699ff;color:#ff9999}
+ul {list-style:none;height:40px;width:1303px;font-size:40px;margin-left:8%}
+a {text-decoration:none;padding-left:5%;padding-right:5%;}
+li {display:inline;}
+
+
